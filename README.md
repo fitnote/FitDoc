@@ -6,21 +6,21 @@
 
 ## Team & Division
 
-项目经理：
+项目经理：XZJ
 
-客户经理：
+客户经理：XZJ
 
-产品经理：
+产品经理：ZJL
 
-UI设计：
+UI设计：ZJL
 
-前端：
+前端：ZJL、XZJ
 
-后端开发：
+后端开发：ZJL、XZJ
 
-数据库：
+数据库：XZJ
 
-QA工程师：
+QA工程师：XZJ
 
 ## Documentation
 
