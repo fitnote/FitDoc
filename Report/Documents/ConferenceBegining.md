@@ -26,3 +26,11 @@
 * 项目经理分派任务
 
 ## 记录会议思维导图
+
+![](../Assets/XPic.jpeg)
+
+By XZJ
+
+![](../Assets/ZPic.jpeg)
+
+By ZJL
