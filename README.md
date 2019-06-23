@@ -38,7 +38,6 @@ QA工程师：XZJ
   * 6.3、[Domain Model(领域模型)](/report/Documents/RequirementsSpecifications/DomainModel.md)
   * 6.4、[State Model(状态模型)](/report/Documents/RequirementsSpecifications/StateModel.md)
   * 6.5、[Estimation of Workload(估算工作量)](/report/Documents/RequirementsSpecifications/EstimationOfWorkloads.md)
-  * 6.6、[Supplementary Demand(补充需求)](/report/Documents/RequirementsSpecifications/SupplementaryDemand.md)
 * 7、Design(设计)
   * 7.1、[UI设计规范文档](/report/Documents/Design/UIBacklog.md)
   * 7.2、UI设计
