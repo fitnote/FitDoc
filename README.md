@@ -32,7 +32,7 @@ QA工程师：XZJ
 * 6、Requirements Specifications(需求规格说明)
   * 6.1、[Usecase Diagram(用例图)](/report/Documents/RequirementsSpecifications/UsecaseDiagram.md)
   * 6.2、Usecases(用例建模)
-    * [用例文档](report/Documents/RequirementsSpecifications/UsecaseDoc.md)
+    * [用例文档](/report/Documents/RequirementsSpecifications/UsecaseDoc.md)
     * [活动图](/report/Documents/RequirementsSpecifications/活动图.md)
     * [状态图](/report/Documents/RequirementsSpecifications/状态图.md)
   * 6.3、[Domain Model(领域模型)](/report/Documents/RequirementsSpecifications/DomainModel.md)
