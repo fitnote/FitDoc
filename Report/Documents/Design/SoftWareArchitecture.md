@@ -14,5 +14,8 @@
 
 ## 逻辑视图
 
+![](../../Assets/logicView.jpg)
+
 ## 物理视图
 
+![](../../Assets/physicalView.jpg)
