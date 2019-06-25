@@ -49,7 +49,7 @@ QA工程师：XZJ
     * XX子系统数据课设计
     * 第三方数据评审结果
   * 7.4、[API设计](/Report/Documents/Design/APIDesign.md)
-  * 7.5、[SoftWare Architecture(软件架构)](/Report/Documents/Design/SoftwareArchitecture.md)
+  * 7.5、[SoftWare Architecture(软件架构)](/Report/Documents/Design/SoftWareArchitecture.md)
 * 8、生产规范与指南
   * 8.1、[代码规范](/Report/Documents/CodeSpecifications.md)
   * 8.2、[微信小程序开发规范文档](/Report/Documents/developDoc.md)
