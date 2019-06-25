@@ -53,7 +53,7 @@ QA工程师：XZJ
 * 8、生产规范与指南
   * 8.1、[代码规范](/Report/Documents/CodeSpecifications.md)
   * 8.2、[微信小程序开发规范文档](/Report/Documents/developDoc.md)
-  * 8.3、[REST API设计规范](/Report/Document/RestAPI.md)
+  * 8.3、[REST API设计规范](/Report/Documents/RestAPI.md)
 * 9、测试
   * 9.1、[Testing Report(测试报告)](/Report/Documents/TestingReport.md)
 * X1 meet_recording
