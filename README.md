@@ -42,8 +42,8 @@ QA工程师：XZJ
   * 7.1、[UI设计规范文档](/Report/Documents/Design/UIBacklog.md)
   * 7.2、UI设计
     * [UI设计说明文档](/Report/Documents/Design/UIDesignSpecifications.md)
-    * [UI设计素材](/Report/Documents/Design/UIAssets)
-    * [UI设计资源](/Report/Documents/Design/UISources)
+    * UI设计素材
+    * UI设计资源
   * 7.3、[Database Design(数据库设计)](/Report/Documents/Design/DatabaseDesign.md)
     * 用户及权限系统数据库设计
     * XX子系统数据课设计
