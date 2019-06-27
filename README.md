@@ -63,12 +63,12 @@ QA工程师：XZJ
   * [inception meeting4(2019/06/19)](/Report/Documents/MeetingRecords/Meeting4.md)
   * [inception meeting5(2019/06/26)](/Report/Documents/MeetingRecords/Meeting5.md)
 * X2 Tech/Work Report
-  * [16340259-学习报告之用例建模小结](/Report/学习报告之用例建模小结.md)
-  * [16340259-学习报告之git学习心得](/Report/学习报告之git学习心得.md)
-  * [16340288-学习报告之commit规范](/Report/学习报告之commit规范.md)
-  * [16340288-学习报告之gitflow实战](/Report/学习报告之gitflow实战.md)
-  * [16340288-学习报告之国际化布局](/Report/学习报告之国际化布局.md)
-  * [16340288-学习报告之防抖截流](/Report/学习报告之防抖截流.md)
+  * [16340259-学习报告之用例建模小结](/Report/Documents/学习报告之用例建模小结.md)
+  * [16340259-学习报告之git学习心得](/Report/Documents/学习报告之git学习心得.md)
+  * [16340288-学习报告之commit规范](/Report/Documents/学习报告之commit规范.md)
+  * [16340288-学习报告之gitflow实战](/Report/Documents/学习报告之gitflow实战.md)
+  * [16340288-学习报告之国际化布局](/Report/Documents/学习报告之国际化布局.md)
+  * [16340288-学习报告之防抖截流](/Report/Documents/学习报告之防抖截流.md)
 * X3 Final Report
   * [16340259-XZJ](/Report/xzj-finalReport.md)
   * Zephyr-ZJL
