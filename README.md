@@ -70,7 +70,7 @@ QA工程师：XZJ
   * [16340288-学习报告之国际化布局](/Report/Documents/学习报告之国际化布局.md)
   * [16340288-学习报告之防抖截流](/Report/Documents/学习报告之防抖截流.md)
 * X3 Final Report
-  * [16340259-XZJ](/Report/xzj-finalReport.md)
+  * [16340259-XZJ](/Report/Documents/xzj-finalReport.md)
   * Zephyr-ZJL
 * X4 [项目周报KANBAN](https://github.com/orgs/fitnote/projects)
 * X5 [项目统计清单](/Report/Documents/WorkSummary.md)
