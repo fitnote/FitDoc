@@ -57,11 +57,9 @@ QA工程师：李丽玮、李彤、陈咏强
 * 9、测试
   * 9.1、[Testing Report(测试报告)](/Report/Documents/TestingReport.md)
 * X1 meet_recording
-  * [inception meeting1(2019/05/29)](/Report/Documents/MeetingRecords/Meeting1.md)
-  * [inception meeting2(2019/06/05)](/Report/Documents/MeetingRecords/Meeting2.md)
-  * [inception meeting3(2019/06/12)](/Report/Documents/MeetingRecords/Meeting3.md)
-  * [inception meeting4(2019/06/19)](/Report/Documents/MeetingRecords/Meeting4.md)
-  * [inception meeting5(2019/06/26)](/Report/Documents/MeetingRecords/Meeting5.md)
+  * [inception meeting1(2019/05/29)](/Report/Documents/MeetingRecords/Inception1.md)
+  * [inception meeting2(2019/06/05)](/Report/Documents/MeetingRecords/Inception2.md)
+  * [inception meeting3(2019/06/12)](/Report/Documents/MeetingRecords/Inception3.md)
 * X2 Tech/Work Report
   * [16340259-学习报告之用例建模小结](/Report/Documents/学习报告之用例建模小结.md)
   * [16340259-学习报告之git学习心得](/Report/Documents/学习报告之git学习心得.md)
