@@ -6,7 +6,54 @@ api 网址：`api.buke.zophyr.com`
 
 ## User
 
-该部分暂未开始。
+### 新增一个 user
+
+> api.buke.zophyr.com/user
+
+| 接口  | 方法 |       传参       |
+| :---: | :--: | :--------------: |
+| /user | POST | application/json |
+
+```json
+{
+  "name": "user name",
+  "open_id": "id from wechat"
+}
+```
+
+### 新增 todo 到 user 中
+
+> api.buke.zophyr.com/user/:id/todo
+
+|   key | value                       |
+| ----: | :-------------------------- |
+|  接口 | /user/:id/todo              |
+|  方法 | POST                        |
+|  传参 | application/json            |
+| `:id` | 要操作的 user 对应的 obj_id |
+
+```json
+{
+  "user": ["which users will add to this user", "is array with obj_id"]
+}
+```
+
+### 删除 user
+
+> api.buke.zophyr.com/user/:id
+
+|   key | value                       |
+| ----: | :-------------------------- |
+|  接口 | /user/:id                   |
+|  方法 | DELETE                      |
+|  传参 | application/json            |
+| `:id` | 要操作的 user 对应的 obj_id |
+
+```json
+{
+  "user": ["which users will delete", "is array with obj_id"]
+}
+```
 
 ## Todo
 
@@ -41,6 +88,23 @@ api 网址：`api.buke.zophyr.com`
 ```json
 {
   "receive_user": ["which users will add to this group", "is array with obj_id"]
+}
+```
+
+### 删除 todo
+
+> api.buke.zophyr.com/todo/:id
+
+|   key | value                       |
+| ----: | :-------------------------- |
+|  接口 | /todo/:id                   |
+|  方法 | DELETE                      |
+|  传参 | application/json            |
+| `:id` | 要操作的 todo 对应的 obj_id |
+
+```json
+{
+  "todo": ["which todo will delete", "is array with obj_id"]
 }
 ```
 
