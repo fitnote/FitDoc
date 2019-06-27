@@ -22,21 +22,21 @@
 
 ### 1.2 Team & Division
 
-项目经理：XZJ
+项目经理：熊秭鉴
 
-客户经理：XZJ
+客户经理：熊秭鉴、李丽玮
 
-产品经理：ZJL
+产品经理：张金亮
 
-UI设计：ZJL
+UI设计：张金亮、李彤
 
-前端：ZJL、XZJ
+前端开发：张金亮
 
-后端开发：ZJL、XZJ
+后端开发：张金亮、熊秭鉴
 
-数据库：XZJ
+数据库：张金亮、陈咏强
 
-QA工程师：XZJ
+QA工程师：李丽玮、李彤、陈咏强
 
 ### 1.3 项目使用的技术与工具
 
@@ -68,9 +68,11 @@ QA工程师：XZJ
 ### Iteration1
 
 * [启动会议报告](ConferenceBegining.md)
-* 每周任务之Week13(2019/05/22)
-* 每周任务之Week14(2019/05/29)
 
 ### Iteration2
 
+* [第二次迭代](MeetingRecords/Inception2.md)
+
 ### Iteration3
+
+* [第三次迭代](MeetingRecords/Inception3.md)
