@@ -4,6 +4,17 @@
 
 ## Github贡献率
 
+项目文档仓库贡献:
+
+![文档仓库贡献率](../Assets/xiongCommit1.png)
+
+后台代码仓库贡献:
+
+![后台代码仓库贡献率](../Assets/xiongCommit2.png)
+
+前端代码仓库贡献:
+
+![前端代码仓库贡献率](../Assets/xiongCommit3.png)
 
 
 ## Github看板管理
